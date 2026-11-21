@@ -256,10 +256,65 @@
 
 ---
 
-### `🏆 Security Badges & Achievements`
+### `🏆 Tactical Clearance & Operational Milestones`
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eezy18x&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+
+<table width="100%">
+<tr>
+<td width="33%" align="center">
+  <br/>
+  <a href="https://github.com/eezy18x"><img src="https://img.shields.io/badge/CLEARANCE-OFFENSIVE%20RED%20TEAM-00ff9c?style=for-the-badge&logo=target&logoColor=00ff9c&labelColor=0d1117" alt="Offensive Clearance" /></a>
+  <br/><br/>
+  <b>⚡ Adversarial AI & LLM Security</b><br/>
+  <sub>Jailbreak Vectors • Prompt Injection • Autonomous Agent Hijacking</sub>
+  <br/><br/>
+</td>
+<td width="33%" align="center">
+  <br/>
+  <a href="https://github.com/eezy18x/HoneySentinel-Lightweight-Honeypot-for-Intrusion-Detection"><img src="https://img.shields.io/badge/DECEPTION-HONEYPOT%20SENTINEL-00ff9c?style=for-the-badge&logo=shield&logoColor=00ff9c&labelColor=0d1117" alt="Deception Defense" /></a>
+  <br/><br/>
+  <b>🍯 Threat Deception Architecture</b><br/>
+  <sub>Intrusion Detection • Decoy Services • Adversary Profiling</sub>
+  <br/><br/>
+</td>
+<td width="33%" align="center">
+  <br/>
+  <a href="https://github.com/eezy18x/suyoCr4ck"><img src="https://img.shields.io/badge/OPERATIONS-CYBER%20CRACKER-00ff9c?style=for-the-badge&logo=terminal&logoColor=00ff9c&labelColor=0d1117" alt="Cyber Cracker" /></a>
+  <br/><br/>
+  <b>💀 Cryptanalytic & Entropy Attacks</b><br/>
+  <sub>suyoCr4ck Multi-Threaded Engine • Brute-Force Vectors</sub>
+  <br/><br/>
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
+  <br/>
+  <a href="https://github.com/eezy18x/CryptoShieldMilitary"><img src="https://img.shields.io/badge/CRYPTOGRAPHY-MIL%20GRADE%20AES-00ff9c?style=for-the-badge&logo=lock&logoColor=00ff9c&labelColor=0d1117" alt="Military Cryptography" /></a>
+  <br/><br/>
+  <b>🛡️ High-Assurance Ciphers</b><br/>
+  <sub>AES-256 Multi-Cipher • PBKDF2 • Key Derivation</sub>
+  <br/><br/>
+</td>
+<td width="33%" align="center">
+  <br/>
+  <a href="https://github.com/eezy18x/steganography-tool"><img src="https://img.shields.io/badge/CONCEALMENT-COVERT%20LSB-00ff9c?style=for-the-badge&logo=eye&logoColor=00ff9c&labelColor=0d1117" alt="Covert Steganography" /></a>
+  <br/><br/>
+  <b>🖼️ Steganographic Payload Suite</b><br/>
+  <sub>Lossless Pixel Encoding • Forensics • Hidden Channels</sub>
+  <br/><br/>
+</td>
+<td width="33%" align="center">
+  <br/>
+  <a href="https://cryptokiddo.vercel.app/"><img src="https://img.shields.io/badge/INTEL%20DISPATCH-ACTIVE%20HUB-00ff9c?style=for-the-badge&logo=vercel&logoColor=00ff9c&labelColor=0d1117" alt="Intel Dispatch" /></a>
+  <br/><br/>
+  <b>🌐 Threat Intel & Security Research</b><br/>
+  <sub>cryptokiddo.vercel.app • Exploit Analysis</sub>
+  <br/><br/>
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
