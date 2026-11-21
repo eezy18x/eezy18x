@@ -1,18 +1,19 @@
 <div align="center">
 
 <!-- ═══════════════════════════ CYBER HUD HEADER ═══════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,35:0d1117,70:00ff9c,100:030712&height=230&section=header&text=SUYOG%20JUNG%20KARKI&fontSize=48&fontColor=00ff9c&fontAlignY=36&desc=AI%20Security%20Engineer%20%E2%80%A2%20LLM%20Red%20Teamer%20%E2%80%A2%20Offensive%20Security%20Researcher&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,35:0d1117,70:00ff9c,100:030712&height=230&section=header&text=SUYOG%20JUNG%20KARKI&fontSize=48&fontColor=00ff9c&fontAlignY=36&desc=AI%20Security%20Engineer%20%E2%80%A2%20Cybersecurity%20Student%20%E2%80%A2%20Security%20Researcher&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/eezy18x">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=850&color=00FF9C&center=true&vCenter=true&width=760&lines=%24+init_session+--target+adversarial-ai;%24+whoami+%E2%86%92+Suyog+Jung+Karki+%5Beezy18x%5D;AI+Security+Engineer+%7C+LLM+Red-Teamer;Jailbreaking+%E2%80%A2+Prompt+Injection+%E2%80%A2+Adversarial+ML;Offensive+AI+Research+%26+Autonomous+Agent+Security;Building+Deception+Tech+%26+Applied+Cryptography;%22Break+it+in+the+lab.+Secure+it+in+production.%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=850&color=00FF9C&center=true&vCenter=true&width=780&lines=%24+init_session+--target+cybersec-telemetry;%24+whoami+%E2%86%92+Suyog+Jung+Karki+%5Beezy18x%5D;AI+Security+Engineer+%E2%80%A2+Frontier+Model+Hardening;Full-Time+Cybersecurity+Student+%E2%80%A2+Always+Learning;Vulnerability+%26+Offensive+Security+Researcher;LLM+Red-Teaming+%E2%80%A2+Honeypots+%E2%80%A2+Applied+Crypto;%22Break+it+in+the+lab.+Secure+it+in+production.%22" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <p align="center">
   <a href="https://cryptokiddo.vercel.app/"><img src="https://img.shields.io/badge/INTEL%20HUB-cryptokiddo-00ff9c?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0d1117" alt="Blog" /></a>
-  <img src="https://img.shields.io/badge/CLEARANCE-OFFENSIVE%20RED%20TEAM-00ff9c?style=for-the-badge&logo=target&logoColor=00ff9c&labelColor=0d1117" alt="Clearance" />
-  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00ff9c?style=for-the-badge&logo=shield&logoColor=00ff9c&labelColor=0d1117" alt="Status" />
+  <img src="https://img.shields.io/badge/WORK-AI%20SECURITY%20ENGINEER-00ff9c?style=for-the-badge&logo=nvidia&logoColor=00ff9c&labelColor=0d1117" alt="Work" />
+  <img src="https://img.shields.io/badge/ACADEMICS-CYBERSECURITY%20STUDENT-00ff9c?style=for-the-badge&logo=gitbook&logoColor=00ff9c&labelColor=0d1117" alt="Student" />
+  <img src="https://img.shields.io/badge/TRACK-SECURITY%20RESEARCHER-00ff9c?style=for-the-badge&logo=target&logoColor=00ff9c&labelColor=0d1117" alt="Researcher" />
   <img src="https://komarev.com/ghpvc/?username=eezy18x&style=for-the-badge&color=00ff9c&label=TELEMETRY%20VIEWS" alt="Profile Views" />
   <a href="https://github.com/eezy18x?tab=followers"><img src="https://img.shields.io/github/followers/eezy18x?style=for-the-badge&logo=github&color=00ff9c&labelColor=0d1117" alt="Followers" /></a>
 </p>
@@ -26,20 +27,59 @@
 {
   "operative": "Suyog Jung Karki",
   "alias": "eezy18x",
-  "specialization": "AI / LLM Security Engineering & Offensive Operations",
-  "mission": "Auditing frontier AI models, breaking autonomous agents & engineering resilient defenses",
-  "research_vectors": [
-    "Direct & Indirect Prompt Injection (DIPI)",
-    "RAG Poisoning & Vector Database Corruption",
-    "Autonomous Agent Hijacking & Tool Exploitation",
-    "Adversarial ML, Jailbreak Synthetics & Model Extraction"
+  "current_role": "AI Security Engineer",
+  "academic_pursuit": "Full-Time Cybersecurity Student (Continuous Labs & Study)",
+  "research_focus": "Offensive Security, LLM Red Teaming & Deception Architectures",
+  "active_domains": [
+    "AI / LLM Security (Prompt Injection, Multi-Agent Exploitation, Guardrails)",
+    "Core Cybersecurity (Network Exploitation, Web App Pentesting, Digital Forensics)",
+    "Deception Engineering (Honeypot Daemons, Scanner Entrapment, Telemetry)",
+    "Applied Cryptography (Military-Grade Ciphers, Entropy Analysis, Steganography)"
   ],
-  "countermeasure_stack": "NeMo Guardrails, Llama-Guard, Semantic Filtering, Deception Daemons",
-  "cryptographic_focus": "Multi-Cipher Military Suites, Entropy Forensics, Steganography",
-  "defensive_motto": "Deconstruct every layer before adversaries exploit it.",
-  "intel_dispatch": "https://cryptokiddo.vercel.app"
+  "learning_lab": "Daily CTF challenges, vulnerable target labs, protocol dissecting",
+  "intel_dispatch": "https://cryptokiddo.vercel.app",
+  "motto": "Student of the craft by nature, security engineer by trade."
 }
 ```
+
+---
+
+### `⚡ The Three Pillars of Operation`
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+#### 💼 AI Security Engineer
+* **Current Professional Role**
+* Frontier AI model auditing & red-teaming
+* Semantic guardrail design (NeMo, Llama-Guard)
+* Threat modeling for autonomous agentic pipelines
+* Prompt injection & RAG vulnerability mitigation
+
+</td>
+<td width="33%" valign="top">
+
+#### 🎓 Cybersecurity Student
+* **Dedicated Full-Time Student**
+* Network security & operating system internals
+* Web application penetration testing (OWASP Top 10)
+* Hands-on CTF labs (TryHackMe, HackTheBox)
+* Continuous defense & exploitation coursework
+
+</td>
+<td width="33%" valign="top">
+
+#### 🔬 Security Researcher
+* **Independent Research & Publishing**
+* Active research dispatches at [cryptokiddo.vercel.app](https://cryptokiddo.vercel.app/)
+* Deception systems & honeypot threat modeling
+* Password entropy algorithms & GPU attack physics
+* Covert steganography & data concealment
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -74,7 +114,7 @@
 
 ---
 
-### `⚔️ Offensive Security, Systems & Cryptography`
+### `⚔️ Core Cybersecurity, Pentesting & Cryptography`
 
 <table width="100%">
 <tr>
@@ -105,7 +145,7 @@
 
 <div align="center">
 
-#### `[ AI, Systems & Development ]`
+#### `[ Systems, Languages & Core Engineering ]`
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,bash,linux,kali,docker,ts,js,react,nextjs,flask,git,githubactions,pytorch,tensorflow,vercel&theme=dark" />
 </p>
@@ -264,12 +304,30 @@
 <tr>
 <td width="33%" align="center">
   <br/>
-  <a href="https://github.com/eezy18x"><img src="https://img.shields.io/badge/CLEARANCE-OFFENSIVE%20RED%20TEAM-00ff9c?style=for-the-badge&logo=target&logoColor=00ff9c&labelColor=0d1117" alt="Offensive Clearance" /></a>
+  <a href="https://github.com/eezy18x"><img src="https://img.shields.io/badge/INDUSTRY%20ROLE-AI%20SECURITY%20ENGINEER-00ff9c?style=for-the-badge&logo=nvidia&logoColor=00ff9c&labelColor=0d1117" alt="Industry Role" /></a>
   <br/><br/>
-  <b>⚡ Adversarial AI & LLM Security</b><br/>
-  <sub>Jailbreak Vectors • Prompt Injection • Autonomous Agent Hijacking</sub>
+  <b>⚡ AI Security Engineering</b><br/>
+  <sub>Frontier Model Auditing • Guardrail Design • Agent Hardening</sub>
   <br/><br/>
 </td>
+<td width="33%" align="center">
+  <br/>
+  <a href="https://cryptokiddo.vercel.app/"><img src="https://img.shields.io/badge/RESEARCH-VULNERABILITY%20LABS-00ff9c?style=for-the-badge&logo=target&logoColor=00ff9c&labelColor=0d1117" alt="Research Labs" /></a>
+  <br/><br/>
+  <b>🔬 Threat & Exploit Research</b><br/>
+  <sub>cryptokiddo.vercel.app • DIPI • Red-Teaming Synthetics</sub>
+  <br/><br/>
+</td>
+<td width="33%" align="center">
+  <br/>
+  <a href="https://tryhackme.com/p/eezy18x"><img src="https://img.shields.io/badge/STUDIES-CYBERSEC%20STUDENT-00ff9c?style=for-the-badge&logo=gitbook&logoColor=00ff9c&labelColor=0d1117" alt="Cybersec Studies" /></a>
+  <br/><br/>
+  <b>🎓 Lifelong Academic & CTF Labs</b><br/>
+  <sub>Network Pentesting • Web Exploitation • Forensics</sub>
+  <br/><br/>
+</td>
+</tr>
+<tr>
 <td width="33%" align="center">
   <br/>
   <a href="https://github.com/eezy18x/HoneySentinel-Lightweight-Honeypot-for-Intrusion-Detection"><img src="https://img.shields.io/badge/DECEPTION-HONEYPOT%20SENTINEL-00ff9c?style=for-the-badge&logo=shield&logoColor=00ff9c&labelColor=0d1117" alt="Deception Defense" /></a>
@@ -280,16 +338,6 @@
 </td>
 <td width="33%" align="center">
   <br/>
-  <a href="https://github.com/eezy18x/suyoCr4ck"><img src="https://img.shields.io/badge/OPERATIONS-CYBER%20CRACKER-00ff9c?style=for-the-badge&logo=terminal&logoColor=00ff9c&labelColor=0d1117" alt="Cyber Cracker" /></a>
-  <br/><br/>
-  <b>💀 Cryptanalytic & Entropy Attacks</b><br/>
-  <sub>suyoCr4ck Multi-Threaded Engine • Brute-Force Vectors</sub>
-  <br/><br/>
-</td>
-</tr>
-<tr>
-<td width="33%" align="center">
-  <br/>
   <a href="https://github.com/eezy18x/CryptoShieldMilitary"><img src="https://img.shields.io/badge/CRYPTOGRAPHY-MIL%20GRADE%20AES-00ff9c?style=for-the-badge&logo=lock&logoColor=00ff9c&labelColor=0d1117" alt="Military Cryptography" /></a>
   <br/><br/>
   <b>🛡️ High-Assurance Ciphers</b><br/>
@@ -298,18 +346,10 @@
 </td>
 <td width="33%" align="center">
   <br/>
-  <a href="https://github.com/eezy18x/steganography-tool"><img src="https://img.shields.io/badge/CONCEALMENT-COVERT%20LSB-00ff9c?style=for-the-badge&logo=eye&logoColor=00ff9c&labelColor=0d1117" alt="Covert Steganography" /></a>
+  <a href="https://github.com/eezy18x/suyoCr4ck"><img src="https://img.shields.io/badge/OPERATIONS-CYBER%20CRACKER-00ff9c?style=for-the-badge&logo=terminal&logoColor=00ff9c&labelColor=0d1117" alt="Cyber Cracker" /></a>
   <br/><br/>
-  <b>🖼️ Steganographic Payload Suite</b><br/>
-  <sub>Lossless Pixel Encoding • Forensics • Hidden Channels</sub>
-  <br/><br/>
-</td>
-<td width="33%" align="center">
-  <br/>
-  <a href="https://cryptokiddo.vercel.app/"><img src="https://img.shields.io/badge/INTEL%20DISPATCH-ACTIVE%20HUB-00ff9c?style=for-the-badge&logo=vercel&logoColor=00ff9c&labelColor=0d1117" alt="Intel Dispatch" /></a>
-  <br/><br/>
-  <b>🌐 Threat Intel & Security Research</b><br/>
-  <sub>cryptokiddo.vercel.app • Exploit Analysis</sub>
+  <b>💀 Cryptanalytic & Entropy Attacks</b><br/>
+  <sub>suyoCr4ck Multi-Threaded Engine • Brute-Force Vectors</sub>
   <br/><br/>
 </td>
 </tr>
